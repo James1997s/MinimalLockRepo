@@ -237,6 +237,22 @@ Description: Offline HTML/CSS/JavaScript watch-style lock-screen clock for iOS 1
 Author: Manus AI
 Name: HTML Watch Clock
 
+Package: com.manus.htmlwatchclock
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 92
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.htmlwatchclock_0.1.1_iphoneos-arm64.deb
+Size: 5592
+MD5sum: c824bd71c11fbc00ce1cea8eac3edee2
+SHA1: 3b3df78236ce5ffa4b559f4d5783289972127c80
+SHA256: 4ea38bb0966cefa96a8f97f530efa6d9b708bbb0aa9ee7283f0337b609a9c383
+Section: Tweaks
+Description: Offline HTML/CSS/JavaScript watch-style lock-screen clock for iOS 15
+Author: Manus AI
+Name: HTML Watch Clock
+
 Package: com.manus.meltclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
