@@ -5,7 +5,7 @@ Maintainer: Manus AI
 Installed-Size: 88
 Section: Tweaks
 Filename: debs/com.manus.minimallockfork_1.0.0_iphoneos-arm64.deb
-Size: 2942
+Size: 2940
 Description: Licensed old-lockscreen fork with cyan date accent for iOS 15
-SHA256: 62cdf1ee616afa8f6186d7fed5d6ef2b5bafb891015f647b576b91fec460fa71
+SHA256: adb5a832bc0d67e8d895fbfb602bc5e96205005732bff6166c678059d91b01ff
 
