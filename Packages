@@ -1,0 +1,11 @@
+Package: com.manus.minimallock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Section: Tweaks
+Filename: debs/com.manus.minimallock_0.1.0_iphoneos-arm64.deb
+Size: 2680
+Description: A minimal cyan lock-screen clock/date accent for iOS 15
+SHA256: 183424d428680027e2947e1991911501f66c7f6e32bd81495683ddb22a091046
+

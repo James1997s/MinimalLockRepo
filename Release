@@ -1,0 +1,7 @@
+Origin: Manus AI
+Label: MinimalLock
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: MinimalLock rootless tweaks for Dopamine
