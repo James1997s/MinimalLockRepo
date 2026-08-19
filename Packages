@@ -9,3 +9,17 @@ Size: 8708
 Description: Simple configurable lock-screen weather display
 SHA256: e15f0aee2250973120c582d51a155a2750971e6b7daf56db01c9150fca1882d2
 
+Package: com.now.mooner
+Name: Mooner
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: NoW
+Installed-Size: 608
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.now.mooner_1.0.1_iphoneos-arm64.deb
+Size: 93296
+Description: The moon moons on you from its perch in the night sky...
+SHA256: d33c54405314f83bb1dac8379dbb4bea028f9e181dd85cc1aa47591aecc602f8
+Icon: https://nowisdev.github.io/icons/Mooner.png
+
