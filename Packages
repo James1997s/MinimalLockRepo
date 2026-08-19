@@ -733,6 +733,22 @@ Description: Creative iPhone 7 lock-screen clock theme 10
 Author: Manus AI
 Name: VaporwaveClock
 
+Package: com.manus.weatherpanel
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.weatherpanel_0.1.0_iphoneos-arm64.deb
+Size: 6590
+MD5sum: a41c761710ce5da77c90e88271712441
+SHA1: 88cd175625d591c1626a0f26f86878abbcd33408
+SHA256: 2ca9aa9a24c6454b065b3225f2aeb12c1db4b751546fb2355e4a865aeb66adf8
+Section: Tweaks
+Description: Native cached Walsall weather panel for the iOS 15 rootless lock screen
+Author: Manus AI
+Name: Weather Panel
+
 Package: com.manus.wordclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
