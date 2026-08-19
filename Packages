@@ -301,6 +301,22 @@ Description: Creative iPhone 7 lock-screen clock theme 1
 Author: Manus AI
 Name: MeltClock
 
+Package: com.manus.mousehandsclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.mousehandsclock_0.1.0_iphoneos-arm64.deb
+Size: 6798
+MD5sum: 7fd88d375501c9cf91574f0dfa24559b
+SHA1: 8fa36767c20762453cc3b6c59261144f374ae1b2
+SHA256: 7fe66f881cde9b3adcc06d90ad0a1685f772062a0de3daf51958583ce3889c36
+Section: Tweaks
+Description: Native mouse-character lock-screen clock with arms as live clock hands
+Author: Manus AI
+Name: Mouse Hands Clock
+
 Package: com.manus.neonarcadeclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
