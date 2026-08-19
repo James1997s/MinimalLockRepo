@@ -190,22 +190,6 @@ Description: Creative iPhone 7 lock-screen clock theme 6
 Author: Manus AI
 Name: BubbleClock
 
-Package: com.manus.cubeclock
-Version: 0.1.1
-Architecture: iphoneos-arm64
-Maintainer: Manus AI
-Installed-Size: 88
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.cubeclock_0.1.1_iphoneos-arm64.deb
-Size: 7120
-MD5sum: f8282312cd2280612b44c8daf80d5cb8
-SHA1: e32b2ad675b6731e8c017932638330efd052be93
-SHA256: 6d821f9426cc4b040cfe20d569fa9e8a27e89321a2b7b11a65dba5ea3b050072
-Section: Tweaks
-Description: Native UIKit 3D cube digital lock-screen clock
-Author: Manus AI
-Name: Cube Clock
-
 Package: com.manus.freshlock
 Version: 0.1.1
 Architecture: iphoneos-arm64
