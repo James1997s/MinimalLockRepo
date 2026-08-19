@@ -1,38 +1,48 @@
+Package: com.manus.aeroglass
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 184
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.aeroglass_0.1.1_iphoneos-arm64.deb
+Size: 8214
+MD5sum: ebf04dde5bb3a82ed064935f85442b65
+SHA1: 6f20e872bee103f29ad79d7a93c67d954c9cb227
+SHA256: 27aa62e57102b9ed1fe0124ca4d0a31c891bd974cebaa1089232c1a77f209753
+Section: Tweaks
+Description: Translucent glass panel behind the iOS 15 lock-screen clock
+Author: Manus AI
+Name: AeroGlass
+
 Package: com.manus.freshlock
 Version: 0.1.1
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 184
-Section: Tweaks
 Filename: debs/com.manus.freshlock_0.1.1_iphoneos-arm64.deb
 Size: 8708
-Description: Simple configurable lock-screen weather display
+MD5sum: 702da6fae87618565df62e5b187e185d
+SHA1: 8a51b7d4f3b6814808c80acd8e02e90ff9c6bc85
 SHA256: e15f0aee2250973120c582d51a155a2750971e6b7daf56db01c9150fca1882d2
+Section: Tweaks
+Description: Simple configurable lock-screen weather display
+Author: Manus AI
+Name: FreshLock
 
 Package: com.now.mooner
-Name: Mooner
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: NoW
 Installed-Size: 608
-Section: Tweaks
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
 Filename: debs/com.now.mooner_1.0.1_iphoneos-arm64.deb
 Size: 93296
-Description: The moon moons on you from its perch in the night sky...
+MD5sum: 2bc5d22ac6c9e38cf627040dff61176b
+SHA1: 67a34452b9c8254c021595a8375c08d12a2723fa
 SHA256: d33c54405314f83bb1dac8379dbb4bea028f9e181dd85cc1aa47591aecc602f8
-Icon: https://nowisdev.github.io/icons/Mooner.png
-
-Package: com.manus.aeroglass
-Name: AeroGlass
-Version: 0.1.0
-Architecture: iphoneos-arm64
-Maintainer: Manus AI
-Installed-Size: 180
 Section: Tweaks
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.aeroglass_0.1.0_iphoneos-arm64.deb
-Size: 6674
-Description: Translucent glass panel behind the iOS 15 lock-screen clock
-SHA256: 0dd93ea31ec3dff81311b5f9dff2b4c703401358162f46e168ded4c521a976f9
+Description: The moon moons on you from its perch in the night sky...
+Author: NoW
+Icon: https://nowisdev.github.io/icons/Mooner.png
+Name: Mooner
 
