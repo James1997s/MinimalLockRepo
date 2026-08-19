@@ -23,3 +23,16 @@ Description: The moon moons on you from its perch in the night sky...
 SHA256: d33c54405314f83bb1dac8379dbb4bea028f9e181dd85cc1aa47591aecc602f8
 Icon: https://nowisdev.github.io/icons/Mooner.png
 
+Package: com.manus.aeroglass
+Name: AeroGlass
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 180
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.aeroglass_0.1.0_iphoneos-arm64.deb
+Size: 6674
+Description: Translucent glass panel behind the iOS 15 lock-screen clock
+SHA256: 0dd93ea31ec3dff81311b5f9dff2b4c703401358162f46e168ded4c521a976f9
+
