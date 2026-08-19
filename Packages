@@ -1,4 +1,20 @@
 Package: com.manus.aeroglass
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 180
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.aeroglass_0.1.0_iphoneos-arm64.deb
+Size: 6674
+MD5sum: a7c8eab24a1a7c426c96c940e5bdb997
+SHA1: 5e23b0f93aa6ffe525e3f2a48feeefe6a7b2a17d
+SHA256: 0dd93ea31ec3dff81311b5f9dff2b4c703401358162f46e168ded4c521a976f9
+Section: Tweaks
+Description: Translucent glass panel behind the iOS 15 lock-screen clock
+Author: Manus AI
+Name: AeroGlass
+
+Package: com.manus.aeroglass
 Version: 0.1.1
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
@@ -45,6 +61,54 @@ Section: Tweaks
 Description: Creative iPhone 7 lock-screen clock theme 3
 Author: Manus AI
 Name: BauhausClock
+
+Package: com.manus.bigclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.bigclock_0.1.0_iphoneos-arm64.deb
+Size: 4590
+MD5sum: 4cd3d27c6b1b8b6ba0344617187126c5
+SHA1: 8c79deb96c770d422dd5dd01c8b0126fd6f3d1c5
+SHA256: 83ef170e6557cca003ee81d1bf66f73e41cadc08e32892a4ef5e8e85541555a7
+Section: Tweaks
+Description: Oversized translucent lock-screen clock for iOS 15
+Author: Manus AI
+Name: BigClock
+
+Package: com.manus.bigclock
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.bigclock_0.1.1_iphoneos-arm64.deb
+Size: 5154
+MD5sum: 08bbfdf5e1eb42abf0efbac6270de132
+SHA1: e35aa4d878df54f8d88acab8daa0b505234ddefe
+SHA256: 958415b2c402aa20a4bc908ae21d6b518da8abd8f6c27c87bad7b1369d8cda5c
+Section: Tweaks
+Description: Oversized translucent lock-screen clock for iOS 15
+Author: Manus AI
+Name: BigClock
+
+Package: com.manus.bigclock
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.bigclock_0.1.2_iphoneos-arm64.deb
+Size: 71470
+MD5sum: 2c1bff7c0638e6f30d3014d6e56e1901
+SHA1: e760be73ffb77943fa096a2293530ebe1eb1c642
+SHA256: a023b4d19db266d2228bed616acc8d1ed131ac7b7a525a0c851ca112f8735ba7
+Section: Tweaks
+Description: iPhone 7-sized lock-screen clock with rotating macOS-inspired backgrounds
+Author: Manus AI
+Name: BigClock
 
 Package: com.manus.bigclock
 Version: 0.1.3
