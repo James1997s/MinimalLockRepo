@@ -253,6 +253,22 @@ Description: Interactive iOS 15 lock-screen clock and wallpaper themer with 30 f
 Author: Manus AI
 Name: LockScreenThemer
 
+Package: com.manus.lockscreenthemer
+Version: 0.1.7
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 3864
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.lockscreenthemer_0.1.7_iphoneos-arm64.deb
+Size: 1522986
+MD5sum: f4c9e76f4aefcee8d3fd4465f8161ad6
+SHA1: 3428f3a8c2701ae4f1d0bfb1dfc3e7733f6c7e89
+SHA256: db0beb03bfb39f5a986a8a8512242e015de84b52a4d0cc67fbaf85699d4a032d
+Section: Tweaks
+Description: Interactive iOS 15 lock-screen clock and wallpaper themer with 30 fonts
+Author: Manus AI
+Name: LockScreenThemer
+
 Package: com.manus.meltclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
