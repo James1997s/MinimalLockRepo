@@ -30,6 +30,22 @@ Description: Creative iPhone 7 lock-screen clock theme 3
 Author: Manus AI
 Name: BauhausClock
 
+Package: com.manus.beenotepad
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 92
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.beenotepad_0.1.0_iphoneos-arm64.deb
+Size: 8558
+MD5sum: c89045c0fbce4df4f1c405b0e5703944
+SHA1: 13bee9bca89e9b36d4607ed978bfc946147b9bde
+SHA256: b1be324b3030d6fbae4cacd25149563e203d38f2cd4ec93dd743e8047de546ec
+Section: Tweaks
+Description: Native bee-themed note panel below the stock iOS lock-screen clock
+Author: Manus AI
+Name: Bee Notepad
+
 Package: com.manus.bigclock
 Version: 0.1.4
 Architecture: iphoneos-arm64
