@@ -30,6 +30,22 @@ Description: Creative iPhone 7 lock-screen clock theme 3
 Author: Manus AI
 Name: BauhausClock
 
+Package: com.manus.bauhausclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 132
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.bauhausclock_0.2.0_iphoneos-arm64.deb
+Size: 25490
+MD5sum: 68d4bf84c163c50d7d35d2b4537bacf7
+SHA1: 95e2291694cc6a3f57be825eae239644302f9dc5
+SHA256: 0d0e30a7946a32c664bd35aa3179ce581e72e3f2ebc2656c9575c9cb56d50fc1
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 3
+Author: Manus AI
+Name: BauhausClock
+
 Package: com.manus.bigclock
 Version: 0.1.3
 Architecture: iphoneos-arm64
@@ -62,6 +78,22 @@ Description: Creative iPhone 7 lock-screen clock theme 7
 Author: Manus AI
 Name: BlueprintClock
 
+Package: com.manus.blueprintclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 144
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.blueprintclock_0.2.0_iphoneos-arm64.deb
+Size: 35478
+MD5sum: 05f90def31f8e2310b57a97f18364f3e
+SHA1: f16fb38e574539e497e1f5cb9a96654cea4c17fc
+SHA256: 1574f62928a19c733f788e53fb57f8a8908de378c3776f65294888b13336faa2
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 7
+Author: Manus AI
+Name: BlueprintClock
+
 Package: com.manus.bubbleclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
@@ -73,6 +105,22 @@ Size: 4996
 MD5sum: 9212447d4efe965aad4d9038da88ce3f
 SHA1: 37b746887048c007af33ea90c2463fa59749b0ec
 SHA256: 2b1da1c0fa0ce4bae82cb1276cd08c3e79f9b92770d22018b7e1373036bb46b8
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 6
+Author: Manus AI
+Name: BubbleClock
+
+Package: com.manus.bubbleclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 136
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.bubbleclock_0.2.0_iphoneos-arm64.deb
+Size: 29590
+MD5sum: 32791566ffa8999588cfdcf57278eb45
+SHA1: 2d256c5d8a2a4275bab57bf3a866188f3db11341
+SHA256: c0218220053767f28e6ce4300842f7f15529f9681487ae600d8a78a5722aaa0a
 Section: Tweaks
 Description: Creative iPhone 7 lock-screen clock theme 6
 Author: Manus AI
@@ -125,6 +173,22 @@ Description: Creative iPhone 7 lock-screen clock theme 1
 Author: Manus AI
 Name: MeltClock
 
+Package: com.manus.meltclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 144
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.meltclock_0.2.0_iphoneos-arm64.deb
+Size: 37718
+MD5sum: 4b98ef71b2dbe6c502ef3ef27a27d781
+SHA1: 226f6919619dc34a3af8e9282d4d8593a908f50e
+SHA256: 41edbb2bdfcdca062bcb8caa41e3eddfd661109f6414552374d7422dbe6cb0e4
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 1
+Author: Manus AI
+Name: MeltClock
+
 Package: com.manus.neonarcadeclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
@@ -136,6 +200,22 @@ Size: 4984
 MD5sum: 7573a011f0964ee6ee638410a9e25517
 SHA1: 1af93544697fe909f1d787680d3f46135f2105b2
 SHA256: 9915edfb7840673ab9a7028983cf2fd74a8cb6c01b64f2f7bd7eeee6858fc853
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 4
+Author: Manus AI
+Name: NeonArcadeClock
+
+Package: com.manus.neonarcadeclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 160
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.neonarcadeclock_0.2.0_iphoneos-arm64.deb
+Size: 49412
+MD5sum: 7f0b92c5f8e6b0b03a4ef39fea71e694
+SHA1: be7c82f76f0a87990417acfb675e69efc154d084
+SHA256: 8d474f8123fb1009bc2ff92bff241a90a3ce1ee44917d7ae1ea99ea76bf15840
 Section: Tweaks
 Description: Creative iPhone 7 lock-screen clock theme 4
 Author: Manus AI
@@ -157,6 +237,22 @@ Description: Creative iPhone 7 lock-screen clock theme 9
 Author: Manus AI
 Name: SplitFlapClock
 
+Package: com.manus.splitflapclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 148
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.splitflapclock_0.2.0_iphoneos-arm64.deb
+Size: 41948
+MD5sum: c6d33374dc109c6c3a5c830428f8a4c7
+SHA1: 7ad877bb9c39595ce2dfeebb3a7d67881b398ed9
+SHA256: f9ad104c1d366ea5ade8ec71f6caebbfd6e72a811e3aa2513af984881aa5d6b4
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 9
+Author: Manus AI
+Name: SplitFlapClock
+
 Package: com.manus.starrynightclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
@@ -168,6 +264,22 @@ Size: 5012
 MD5sum: 4b839b2a6ec3260146025ca83edeafbf
 SHA1: fc12f1da03e80cb055b684f21dc6a026eb4e2bbb
 SHA256: 6ec7efbc50221f62ee313ee49cc13c6b8b1f5af9ecbe210d1c46cb17374f10d9
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 2
+Author: Manus AI
+Name: StarryNightClock
+
+Package: com.manus.starrynightclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 180
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.starrynightclock_0.2.0_iphoneos-arm64.deb
+Size: 71966
+MD5sum: df57f42bf159e6859b94e5168b2909cc
+SHA1: 5630176083c7365386e5239df7ade97b51c0ccac
+SHA256: 746548109d4b9ca5d62444ceb90c36600e7eb9db2b82041a0c3cbde5bc54a0f2
 Section: Tweaks
 Description: Creative iPhone 7 lock-screen clock theme 2
 Author: Manus AI
@@ -189,6 +301,22 @@ Description: Creative iPhone 7 lock-screen clock theme 8
 Author: Manus AI
 Name: SunsetClock
 
+Package: com.manus.sunsetclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 128
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.sunsetclock_0.2.0_iphoneos-arm64.deb
+Size: 19202
+MD5sum: 3c81741fd6676239703b5434046fc1fd
+SHA1: 85a7aba67e881496056c11a98ff9d75f8b71fc86
+SHA256: de4039f938a5dcac57a87b465de336614c4d68c93cef39a140ead2a0af630279
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 8
+Author: Manus AI
+Name: SunsetClock
+
 Package: com.manus.typewriterclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
@@ -205,6 +333,22 @@ Description: Creative iPhone 7 lock-screen clock theme 5
 Author: Manus AI
 Name: TypewriterClock
 
+Package: com.manus.typewriterclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 152
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.typewriterclock_0.2.0_iphoneos-arm64.deb
+Size: 45512
+MD5sum: 20ceeb0f35ca86b7d76501a735d59a01
+SHA1: e53c1790b0223821c80a6dc3356653e0151bce22
+SHA256: ef564f5af8880bf70d4a25565c38d4182c8f8642d928ed6c188c4c850e06d2f8
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 5
+Author: Manus AI
+Name: TypewriterClock
+
 Package: com.manus.vaporwaveclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
@@ -216,6 +360,22 @@ Size: 5018
 MD5sum: 2ba40f2195d6f6b29816563c25aa1609
 SHA1: e7f0d0f71834d55e005f7e24cde8d3c4bea1bda2
 SHA256: bdf81174d44e7fc27ceb2fdc56d627b62f9b4d1444f657e05fabc47926c75670
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 10
+Author: Manus AI
+Name: VaporwaveClock
+
+Package: com.manus.vaporwaveclock
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 144
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.vaporwaveclock_0.2.0_iphoneos-arm64.deb
+Size: 35826
+MD5sum: 0aace64bf961eb1a9af10ca9adb02822
+SHA1: e9b8ef20ce7dc6dcec131b07a6e2cd22455a2bc9
+SHA256: 7c9d802fa4210a600f607e194111ed8983ce18203d39619ac9e0906b1fba9df8
 Section: Tweaks
 Description: Creative iPhone 7 lock-screen clock theme 10
 Author: Manus AI
