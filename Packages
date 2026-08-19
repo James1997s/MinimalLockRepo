@@ -398,16 +398,16 @@ Author: Manus AI
 Name: SunsetClock
 
 Package: com.manus.tamagotchiclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
-Installed-Size: 88
+Installed-Size: 96
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.tamagotchiclock_0.1.4_iphoneos-arm64.deb
-Size: 6826
-MD5sum: 429623f17fa0c605ce198bcef85dc601
-SHA1: 19f71f9789a4f98572b3c674a0c8e8eed51046ed
-SHA256: 3767ade9ea921b5a881eee680f06965adeaea2f7988d24a8a1ddfc58b4aaed7f
+Filename: debs/com.manus.tamagotchiclock_0.2.0_iphoneos-arm64.deb
+Size: 7968
+MD5sum: bac65a6aa5a6b04a4f1904d0dc7f0229
+SHA1: 5449853726ccfb763a74bc889fb1901e6f41b464
+SHA256: e97795a3a0031775a441f69ac764b7ca814efc37aaa59a14dbd8a90fc1cd296e
 Section: Tweaks
 Description: Native UIKit Tamagotchi Pixel Clock for iOS 15 rootless lock screen
 Author: Manus AI
