@@ -45,6 +45,22 @@ Description: Simple configurable lock-screen weather display
 Author: Manus AI
 Name: FreshLock
 
+Package: com.manus.graffiticlock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.graffiticlock_0.1.0_iphoneos-arm64.deb
+Size: 37594
+MD5sum: 7da74ba7fe3d595e0d4faba9b8b23c70
+SHA1: c9c4cbb2376b2e375d6acaad3dc1e1500dd150fd
+SHA256: f13594d2f6de1d52bd994bdb21ce062ba63fae19606e5fe4ef62d69013d6b0d9
+Section: Tweaks
+Description: Center-screen graffiti-style clock with bundled Permanent Marker font for iOS 15
+Author: Manus AI
+Name: GraffitiClock
+
 Package: com.now.mooner
 Version: 1.0.1
 Architecture: iphoneos-arm64
