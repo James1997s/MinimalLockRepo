@@ -5,3 +5,10 @@ Codename: stable
 Architectures: iphoneos-arm64
 Components: main
 Description: MinimalLock rootless tweaks for Dopamine
+Date: Wed, 19 Aug 2026 07:34:15 GMT
+MD5Sum:
+ efda7d3ea9620cad0aa84580a3f4d6ad Packages
+ 48fc03aea6c80fda38e49212f61bdeaa Packages.gz
+SHA256:
+ 5014ccdf56c031421747203901a72714678101429a315172138992d34b81d268 Packages
+ 8b7a17add184cad3ccec23c023a15850ee2ecd3ebe9e60fe40adafa0c5762fef Packages.gz

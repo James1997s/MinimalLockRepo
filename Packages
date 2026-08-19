@@ -382,16 +382,16 @@ Author: Manus AI
 Name: Split-Flap Terminal Clock
 
 Package: com.manus.starrynightclock
-Version: 0.3.0
+Version: 0.3.1
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 200
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.starrynightclock_0.3.0_iphoneos-arm64.deb
-Size: 76246
-MD5sum: bb2b07a72f0c4c427186e218212baeb1
-SHA1: 87abff36d93b1c346131f166cb704f8d424ef020
-SHA256: 57bdefb778d40edf177c545fb926fa1c2c3a5524bd0df3d10768989365f1c2a0
+Filename: debs/com.manus.starrynightclock_0.3.1_iphoneos-arm64.deb
+Size: 76244
+MD5sum: 20c6ba7a79da22091580e44ecc29d4db
+SHA1: 9742695c78de20c4f2ebfb322d81aeaa5aa6ed06
+SHA256: 7388be01c62381ee7d0c2df01b776288b13a7bd9af4d3fa63fa8a664a55396cf
 Section: Tweaks
 Description: Creative celestial clock with constellations, orbit lines, moonlight, and live UK time
 Author: Manus AI
