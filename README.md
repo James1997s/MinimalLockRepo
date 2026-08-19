@@ -4,17 +4,17 @@ This repository distributes **MinimalLock 0.1.0**, a rootless lock-screen accent
 
 ## Add to Sileo
 
-After GitHub Pages is enabled for this repository using the `main` branch and `/root` directory, add this source in Sileo:
+Add this public raw repository source directly in Sileo:
 
 ```text
-https://GITHUB_USERNAME.github.io/MinimalLockRepo/
+https://raw.githubusercontent.com/James1997s/MinimalLockRepo/main/
 ```
 
-The final URL will be replaced with the actual GitHub account name after publication.
+This repository uses the public GitHub raw HTTPS endpoint, so no separate web server is required.
 
 ## Repository layout
 
-The repository is a small APT-compatible source. `Packages` indexes the Debian package, `Release` describes the repository, and the `.deb` is stored under `debs/`. Sileo can read this standard package index over HTTPS through GitHub Pages.
+The repository is a small APT-compatible source. `Packages` indexes the Debian package, `Release` describes the repository, and the `.deb` is stored under `debs/`. Sileo can read this standard package index over HTTPS through the public GitHub raw endpoint.
 
 ## Safety
 
