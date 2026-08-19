@@ -206,16 +206,16 @@ Author: Manus AI
 Name: iOS 26 Big Text Clock
 
 Package: com.manus.lavalampclock
-Version: 0.2.0
+Version: 0.2.1
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
-Installed-Size: 88
+Installed-Size: 108
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.lavalampclock_0.2.0_iphoneos-arm64.deb
-Size: 8196
-MD5sum: c2423131d073480a1f071eba7b275891
-SHA1: 944e55e2c470aebc5e99b0afd38450f5a2cead52
-SHA256: 3e4fbc76c1ffea1fdbb6746e15f0d7abf6dc68bebc6fbef96fbde25d9bcaf9ce
+Filename: debs/com.manus.lavalampclock_0.2.1_iphoneos-arm64.deb
+Size: 9754
+MD5sum: 925ab796c612ca9eb9d00393fb850d94
+SHA1: 92f1bfd89d154fea6900126c42c6ad0125468738
+SHA256: 6446055d7e93024b65a024904edf3f875214ee34a96cb1d06e25a144acf07b2f
 Section: Tweaks
 Description: Professional 1980s lava-lamp digital clock for the iOS 15 rootless lock screen
 Author: Manus AI
