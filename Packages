@@ -429,6 +429,22 @@ Description: Creative iPhone 7 lock-screen clock theme 2
 Author: Manus AI
 Name: StarryNightClock
 
+Package: com.manus.steamboatwaveclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.steamboatwaveclock_0.1.0_iphoneos-arm64.deb
+Size: 7366
+MD5sum: d95fe7f74cf34a7d1b18aa5026b33d87
+SHA1: 9384a1a99e6df4c7cb4177fac64ae0354bf049a4
+SHA256: b4354952f9f8595fabe3b4170b57741a29109007b84e4761cdee15840a3c72db
+Section: Tweaks
+Description: Native Steamboat Willie-inspired wave clock with digital eye time
+Author: Manus AI
+Name: Steamboat Wave Clock
+
 Package: com.manus.sunsetclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
