@@ -14,6 +14,22 @@ Description: Translucent glass panel behind the iOS 15 lock-screen clock
 Author: Manus AI
 Name: AeroGlass
 
+Package: com.manus.bauhausclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.bauhausclock_0.1.0_iphoneos-arm64.deb
+Size: 4990
+MD5sum: 816719afe57157c232c1cdbedce6cdd1
+SHA1: 1e8da9c71d470b65e989045bd38ef3d3b619bde3
+SHA256: 240e10393a1118449ad2a02091b0a93d4e97ce46126956657ac8e3bd4f4412cd
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 3
+Author: Manus AI
+Name: BauhausClock
+
 Package: com.manus.bigclock
 Version: 0.1.3
 Architecture: iphoneos-arm64
@@ -29,6 +45,38 @@ Section: Tweaks
 Description: iPhone 7-sized lock-screen clock with rotating macOS-inspired backgrounds
 Author: Manus AI
 Name: BigClock
+
+Package: com.manus.blueprintclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.blueprintclock_0.1.0_iphoneos-arm64.deb
+Size: 4978
+MD5sum: a23082aa355fd598f822593e61465ff1
+SHA1: dbf317e78dc51bc6f1614c96cecc225306786974
+SHA256: d9cf58587790abdec50878c3f6d919f5125fdf09f45c9bde4c1d7eeae65dd46e
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 7
+Author: Manus AI
+Name: BlueprintClock
+
+Package: com.manus.bubbleclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.bubbleclock_0.1.0_iphoneos-arm64.deb
+Size: 4996
+MD5sum: 9212447d4efe965aad4d9038da88ce3f
+SHA1: 37b746887048c007af33ea90c2463fa59749b0ec
+SHA256: 2b1da1c0fa0ce4bae82cb1276cd08c3e79f9b92770d22018b7e1373036bb46b8
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 6
+Author: Manus AI
+Name: BubbleClock
 
 Package: com.manus.freshlock
 Version: 0.1.1
@@ -60,6 +108,118 @@ Section: Tweaks
 Description: Center-screen graffiti-style clock with bundled Permanent Marker font for iOS 15
 Author: Manus AI
 Name: GraffitiClock
+
+Package: com.manus.meltclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.meltclock_0.1.0_iphoneos-arm64.deb
+Size: 5024
+MD5sum: 3d0a9a27220071cfddd556215a826b7f
+SHA1: 4c2e307d04b4235a08b7d9beb9e2fd762f2c6991
+SHA256: bbdd8eea6cd1f6bfeb3c32b3c7c13ad5c93df218d6a3478a3b6104b8ee8d3eb9
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 1
+Author: Manus AI
+Name: MeltClock
+
+Package: com.manus.neonarcadeclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.neonarcadeclock_0.1.0_iphoneos-arm64.deb
+Size: 4984
+MD5sum: 7573a011f0964ee6ee638410a9e25517
+SHA1: 1af93544697fe909f1d787680d3f46135f2105b2
+SHA256: 9915edfb7840673ab9a7028983cf2fd74a8cb6c01b64f2f7bd7eeee6858fc853
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 4
+Author: Manus AI
+Name: NeonArcadeClock
+
+Package: com.manus.splitflapclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.splitflapclock_0.1.0_iphoneos-arm64.deb
+Size: 5016
+MD5sum: bf6817530c1cef9c061f2e2a0d212bc2
+SHA1: 32157995e0b7510cb44feb121a1ed296cbfe2bbd
+SHA256: 1efd4a325c35189fdb119b4053e92c08444604201b73906a7591abf63352d26a
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 9
+Author: Manus AI
+Name: SplitFlapClock
+
+Package: com.manus.starrynightclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.starrynightclock_0.1.0_iphoneos-arm64.deb
+Size: 5012
+MD5sum: 4b839b2a6ec3260146025ca83edeafbf
+SHA1: fc12f1da03e80cb055b684f21dc6a026eb4e2bbb
+SHA256: 6ec7efbc50221f62ee313ee49cc13c6b8b1f5af9ecbe210d1c46cb17374f10d9
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 2
+Author: Manus AI
+Name: StarryNightClock
+
+Package: com.manus.sunsetclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.sunsetclock_0.1.0_iphoneos-arm64.deb
+Size: 4980
+MD5sum: ce57d3e8fe66bdfba34d01be35551724
+SHA1: 1e6bd8551abe0673e3dbc3eea3b1602ac36200b0
+SHA256: ac79726303d92dfe6e850ee94805e6bc582853f8824d44ea1823ca608fdb74ac
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 8
+Author: Manus AI
+Name: SunsetClock
+
+Package: com.manus.typewriterclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.typewriterclock_0.1.0_iphoneos-arm64.deb
+Size: 4984
+MD5sum: 15cd3cd2b8a82ad7b86534e183f4b933
+SHA1: 0befb15d70dbf20e545eb39a49a755273fee12c0
+SHA256: daae45b7b7245e3af290f2ea4c3e4759db70a105ed7214b231d080aa2b1e126f
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 5
+Author: Manus AI
+Name: TypewriterClock
+
+Package: com.manus.vaporwaveclock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.vaporwaveclock_0.1.0_iphoneos-arm64.deb
+Size: 5018
+MD5sum: 2ba40f2195d6f6b29816563c25aa1609
+SHA1: e7f0d0f71834d55e005f7e24cde8d3c4bea1bda2
+SHA256: bdf81174d44e7fc27ceb2fdc56d627b62f9b4d1444f657e05fabc47926c75670
+Section: Tweaks
+Description: Creative iPhone 7 lock-screen clock theme 10
+Author: Manus AI
+Name: VaporwaveClock
 
 Package: com.now.mooner
 Version: 1.0.1
