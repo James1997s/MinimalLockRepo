@@ -1,12 +1,11 @@
-Package: com.manus.minimallockfork
-Version: 1.0.1
+Package: com.manus.freshlock
+Version: 0.1.1
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
-Installed-Size: 88
+Installed-Size: 184
 Section: Tweaks
-Filename: debs/com.manus.minimallockfork_1.0.1_iphoneos-arm64.deb
-Size: 2950
-Description: Licensed old-lockscreen fork with cyan date accent for iOS 15
-Conflicts: com.manus.minimallock
-SHA256: bd87ff0d1605c2d8ff185c62189f9ca1c213547e9a944c920e05cf71028ba008
+Filename: debs/com.manus.freshlock_0.1.1_iphoneos-arm64.deb
+Size: 8708
+Description: Simple configurable lock-screen weather display
+SHA256: e15f0aee2250973120c582d51a155a2750971e6b7daf56db01c9150fca1882d2
 
