@@ -1,34 +1,34 @@
 Package: com.manus.aeroglass
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 184
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.aeroglass_0.1.4_iphoneos-arm64.deb
+Filename: debs/com.manus.aeroglass_0.2.0_iphoneos-arm64.deb
 Size: 9398
-MD5sum: b4190161ca4c2ea983234052a9997362
-SHA1: f1874a513d4f96254006373e38893e8650760d45
-SHA256: df71ca15b7874ff02cca554757f570e16c80309e3c9c2a603e5b771f8cf6b4e3
+MD5sum: 9bcd217b29da0341a39763d79495ecf3
+SHA1: 47e513063808d3f4cf2f9f0c62e8552fc270da01
+SHA256: 146a019e503a2accff792a9091673916d9c60fe65145fac61732fbdbd382208a
 Section: Tweaks
-Description: Translucent glass panel behind the iOS 15 lock-screen clock
+Description: Polished translucent glass clock panel for iOS 15 rootless lock screens
 Author: Manus AI
-Name: AeroGlass
+Name: Aero Glass Clock
 
 Package: com.manus.bauhausclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 132
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.bauhausclock_0.2.1_iphoneos-arm64.deb
-Size: 26592
-MD5sum: 11462806a7be8ffbe423f3dabf808a2a
-SHA1: 41b12ff8ae874081f8765adc53e0627e6bc6b82a
-SHA256: 3149aa740614fe44a6727bc919bb0101f6b91a31774479f1bb3e74f4bf1e13ec
+Filename: debs/com.manus.bauhausclock_0.3.0_iphoneos-arm64.deb
+Size: 26606
+MD5sum: d4e7981c2beb9f574f38ca5faf03c920
+SHA1: 4ac480e6c7c2463f3903782d360439ccd48d154d
+SHA256: 35b79176c888531cb846ae67a1fed36b981062da26054d5f1e532d423ff71ba7
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 3
+Description: Geometric primary-color clock with disciplined Bauhaus typography
 Author: Manus AI
-Name: BauhausClock
+Name: Bauhaus Grid Clock
 
 Package: com.manus.beenotepad
 Version: 0.1.0
@@ -47,20 +47,20 @@ Author: Manus AI
 Name: Bee Notepad
 
 Package: com.manus.bigclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 164
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.bigclock_0.1.4_iphoneos-arm64.deb
-Size: 72790
-MD5sum: 110515b38cdccd40e4e8c2b1c1e53c8e
-SHA1: 46c9c21f1a3bc2fedd5d29c510701543e6582f2a
-SHA256: 08acfea5341fcabfe0f495f8d64691f0e9b1577944c0e3dc8122a8ca35564a01
+Filename: debs/com.manus.bigclock_0.2.0_iphoneos-arm64.deb
+Size: 72794
+MD5sum: efab4d2a3bf8f1b6609fe00f6b72e085
+SHA1: 6517abed9aa8df98f88a1a47a5d6b328e558084a
+SHA256: 30ae50ccf94d8a80fb942a6b35bc152623beb7698c3811063ae4bc4c3f78a081
 Section: Tweaks
-Description: iPhone 7-sized lock-screen clock with rotating macOS-inspired backgrounds
+Description: Large Mac-inspired clock with rotating desktop background treatments
 Author: Manus AI
-Name: BigClock
+Name: Mac Desk Clock
 
 Package: com.manus.binaryclock
 Version: 0.1.4
@@ -79,36 +79,36 @@ Author: Manus AI
 Name: Binary Matrix Clock
 
 Package: com.manus.blueprintclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 144
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.blueprintclock_0.2.1_iphoneos-arm64.deb
-Size: 36626
-MD5sum: 841b69280cc4fd40b4f69a20d578280b
-SHA1: 81a50bab7766dfbb7152aa97406a001b472ff6bf
-SHA256: d788441fd7d8844b2d482cb03204a2f7a5ef8dbf122b44c2d8b7cb7359c0620d
+Filename: debs/com.manus.blueprintclock_0.3.0_iphoneos-arm64.deb
+Size: 36638
+MD5sum: 39abef797f71d4f147c72847c6f76a24
+SHA1: 8b33aa85db147b832f2a2d6ba4c0cdb8e395489d
+SHA256: ec05e685239f56db4fe88438c006283a852e604b402946bf90398ff6c6e6ab78
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 7
+Description: Technical blueprint clock with drafting-grid typography and accents
 Author: Manus AI
-Name: BlueprintClock
+Name: Blueprint Grid Clock
 
 Package: com.manus.bubbleclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 136
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.bubbleclock_0.2.1_iphoneos-arm64.deb
-Size: 30732
-MD5sum: 9eb37ad941807c2ebbccfc36890316ab
-SHA1: 0a05de79f939883b1fd17580639c77bb37b0deb6
-SHA256: c37cfd223fa7e0ce67f1784026c6671029ef60d54411471006fecdf4bdea6eb8
+Filename: debs/com.manus.bubbleclock_0.3.0_iphoneos-arm64.deb
+Size: 30744
+MD5sum: 1687582f0634e009296d014b7581de9b
+SHA1: 94e52b8d61b67d9a5e5077f891a90046bd34e5bd
+SHA256: 7602705499924d86d8fec0b4803903a708ef035b25ff34317810bfeb368707cc
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 6
+Description: Playful polished orb clock with glossy bubble styling
 Author: Manus AI
-Name: BubbleClock
+Name: Bubblegum Orb Clock
 
 Package: com.manus.dotmatrixclock
 Version: 0.1.4
@@ -158,36 +158,36 @@ Author: Manus AI
 Name: FreshLock
 
 Package: com.manus.graffiticlock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 164
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.graffiticlock_0.1.4_iphoneos-arm64.deb
-Size: 38998
-MD5sum: e7b91292a09b515b90165a1d7b8bfe4b
-SHA1: 55caa36f1e3d6ed1a3f414f7177f20fa8eb2ec8f
-SHA256: 0626577f195dbb77cfe655f376a9f9e804352138db157f8983966e6f0d799760
+Filename: debs/com.manus.graffiticlock_0.2.0_iphoneos-arm64.deb
+Size: 38888
+MD5sum: 858c4a15cff21807673071dd4ea3884c
+SHA1: 06e2f55eee01af20d33afecb7c9a7862da96b283
+SHA256: 94cb44373c2116e73913fbdd41350959252b59d3081555cbe3b4faefdcac3a9c
 Section: Tweaks
-Description: Center-screen graffiti-style clock with bundled Permanent Marker font for iOS 15
+Description: Hand-painted street-marker clock with bundled custom typography
 Author: Manus AI
-Name: GraffitiClock
+Name: Graffiti Marker Clock
 
 Package: com.manus.htmlwatchclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 92
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.htmlwatchclock_0.1.4_iphoneos-arm64.deb
-Size: 7584
-MD5sum: e57830e7cefd235507a5ec54d0395609
-SHA1: 7bf6a98a25e8acdd9df660b3798b027565bbb292
-SHA256: e4a0f374fdde4e4aac5d6c1ed727082251bc373b69dbda700956575f50c65687
+Filename: debs/com.manus.htmlwatchclock_0.2.0_iphoneos-arm64.deb
+Size: 7590
+MD5sum: 4e159ee3adacf141dc3a5c2a2ec6c0d7
+SHA1: 3622b14a5f18e594ef363ac94dec071064bdde36
+SHA256: 7c604bf9f6fe167c3d53cebd2aca2d4b9e3084e5350c41de8deaf6eb1019c697
 Section: Tweaks
-Description: Native UIKit watch-style lock-screen clock for iOS 15
+Description: Native station-style watch clock with live seconds and UK time
 Author: Manus AI
-Name: HTML Watch Clock
+Name: Station Watch Clock
 
 Package: com.manus.ios26bigclock
 Version: 0.1.4
@@ -196,10 +196,10 @@ Maintainer: Manus AI
 Installed-Size: 88
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
 Filename: debs/com.manus.ios26bigclock_0.1.4_iphoneos-arm64.deb
-Size: 6904
-MD5sum: 21d9c9e90b1e54ac60fcfad66d1792d9
-SHA1: 0f4bbf9094cd42f23c810ee9924e5a2f7f00e4b4
-SHA256: a1cb9b40a0251e0b5ff147156593ed01c4a1f64fafe4495dc5714024dba16002
+Size: 6902
+MD5sum: 75f9743f1ea66a5ba8ac59640b23381f
+SHA1: a96d19288e7586c5c61fff9aae28606250653c11
+SHA256: ec0dff4d80da0ebe35eb349c7903cffb1ee614ce41a65352cb968dd38b4163c0
 Section: Tweaks
 Description: Native iOS-26-inspired large-text lock-screen clock
 Author: Manus AI
@@ -238,20 +238,20 @@ Author: Manus AI
 Name: Liquid Wave Clock
 
 Package: com.manus.meltclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 144
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.meltclock_0.2.1_iphoneos-arm64.deb
-Size: 39002
-MD5sum: 68345a3d5755e346dfaaf9dd74fdd98c
-SHA1: db8d0e2e54876d2a8a1dab79768821c4d9b32927
-SHA256: a8c6719805433ba11d002e51b3bfcfa6a05875b4a10c710697bc6e4820c7994a
+Filename: debs/com.manus.meltclock_0.3.0_iphoneos-arm64.deb
+Size: 39032
+MD5sum: 43982061c83f7bdd11e3dcc3a0ab6341
+SHA1: e2a4f8f78ec38a615c534dda75cd7ceab52cd889
+SHA256: 83fe29fef78033c8b140d70f85849e4a53cf28164005eb91ca8876187903bfd9
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 1
+Description: Dalí-inspired melting clock with fluid numeric distortion
 Author: Manus AI
-Name: MeltClock
+Name: Surreal Melt Clock
 
 Package: com.manus.mousehandsclock
 Version: 0.1.4
@@ -270,36 +270,36 @@ Author: Manus AI
 Name: Mouse Hands Clock
 
 Package: com.manus.neonarcadeclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 160
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.neonarcadeclock_0.2.1_iphoneos-arm64.deb
-Size: 50500
-MD5sum: 317851fb1826c6944ca1e6d5c5bac1f7
-SHA1: 6980cb4d3a946248a4a551297aeb58a74b3974ea
-SHA256: 5dafaa7075c19cca7c852742abf2f232dce3aaeda4207b70a3ad2a9569d5da2b
+Filename: debs/com.manus.neonarcadeclock_0.3.0_iphoneos-arm64.deb
+Size: 50510
+MD5sum: 011a8969c38b884c59108a2052d724e6
+SHA1: 1a3fe6f2f97b5e4435193df71e6ac64d14a625cb
+SHA256: ca24c835b19c777350132a4dfb7ba38131224bd40c7818dd732af33ed6d5a716
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 4
+Description: Retro arcade clock with neon cabinet styling and game-era accents
 Author: Manus AI
-Name: NeonArcadeClock
+Name: Neon Arcade Clock
 
 Package: com.manus.neonringclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 88
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.neonringclock_0.1.4_iphoneos-arm64.deb
-Size: 6866
-MD5sum: 6607f98a6c1a1f1ed570a4d0334ad988
-SHA1: 66acc270a61a7cb1ac9235b446d9d2b728f7a090
-SHA256: ece7582948eaf7accbdfcb8875e57274b03550055f2037a8ae6d9e83d517d034
+Filename: debs/com.manus.neonringclock_0.2.0_iphoneos-arm64.deb
+Size: 6876
+MD5sum: 0a9da95b67e1b3fddd3ba71c12d0f6a0
+SHA1: 00fba3e6272cefabf7a03aa0e36146c0732cb09f
+SHA256: ed07f4156e60ed571688698a46e0083f58fe99fb9d8639f5496ac11863004334
 Section: Tweaks
-Description: Native UIKit Neon Ring Clock for iOS 15 rootless lock screen
+Description: Minimal neon-ring clock with a glowing live progress halo
 Author: Manus AI
-Name: Neon Ring Clock
+Name: Neon Halo Clock
 
 Package: com.manus.penguinwalkclock
 Version: 0.1.4
@@ -318,84 +318,84 @@ Author: Manus AI
 Name: Penguin Walk Clock
 
 Package: com.manus.prismclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 88
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.prismclock_0.1.4_iphoneos-arm64.deb
-Size: 6878
-MD5sum: c0d7d77a3a3bc7148b965372f5e3452d
-SHA1: f64bc2deab586d9f6294c5a7917057b2feb9f7b7
-SHA256: 36eaa22da7454177fb642a1099baa5b73580144d6965cdb6a33e4976f66be37e
+Filename: debs/com.manus.prismclock_0.2.0_iphoneos-arm64.deb
+Size: 6882
+MD5sum: d7f407d2d0a4132f470f77004ba4b0bf
+SHA1: 6cb678334f369883f5ce35df890a4dc82a5b7c18
+SHA256: 86eca260c08ffe21f4cd32e920ba408fc2e32e2acfc7ce20dd0f1017b36e5e8c
 Section: Tweaks
-Description: Native UIKit Prism Digital Clock for iOS 15 rootless lock screen
+Description: Refined prism clock with refracted gradients and digital time
 Author: Manus AI
-Name: Prism Digital Clock
+Name: Prism Light Clock
 
 Package: com.manus.radialclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 88
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.radialclock_0.1.4_iphoneos-arm64.deb
-Size: 6872
-MD5sum: 7cc95c3ddf382c4874edfdea2613c7d1
-SHA1: 3765df04d968fac4f1dd7062691113ccd6206dbc
-SHA256: c6173156144cfce3282eb985a5a4f2d6b1d7013eb6cd0677ca33735971293d4c
+Filename: debs/com.manus.radialclock_0.2.0_iphoneos-arm64.deb
+Size: 6876
+MD5sum: bbe4f708341fe2545558e7d60c711948
+SHA1: 210f3f6dc9b06e5aa9fc244a21015c3b11d102bf
+SHA256: f720b709d327a95f5d9cf780e3b1625c9e40876a1698f3c8540efeef09db4d58
 Section: Tweaks
-Description: Native UIKit Radial Progress Clock for iOS 15 rootless lock screen
+Description: Circular progress clock with precise animated time rings
 Author: Manus AI
 Name: Radial Progress Clock
 
 Package: com.manus.retroledclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 88
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.retroledclock_0.1.4_iphoneos-arm64.deb
-Size: 6876
-MD5sum: aa50e1fb8cd64bcfb76d854a173b4fda
-SHA1: 3278e8491037522f3d6171fcf3d6b5004e5c9998
-SHA256: 1338baca390f35b57672f7de9437e46fb3f334157a2c14300cfa509b817799e5
+Filename: debs/com.manus.retroledclock_0.2.0_iphoneos-arm64.deb
+Size: 6890
+MD5sum: b53205a04287c52fed575a4edbebbb5b
+SHA1: 61e19e7651bedaecfd08a05ac52a9f487e0e5793
+SHA256: 0e9e461f76174cbaf913fd8abce88c578fa6131160d108740ff461a64b90e82e
 Section: Tweaks
-Description: Native UIKit Retro LED Clock for iOS 15 rootless lock screen
+Description: 1980s LED display clock with crisp segmented typography
 Author: Manus AI
 Name: Retro LED Clock
 
 Package: com.manus.splitflapclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 148
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.splitflapclock_0.2.1_iphoneos-arm64.deb
-Size: 43168
-MD5sum: 1884e347492e6846a85283a5dedab64a
-SHA1: 765e4b302a12e5bb1e9c65b5aadfcfaae0c1dbc6
-SHA256: 5eedc161695a3dc0a81fe292313fee340a3e4cf9d3763b217a3a3d867a3e0066
+Filename: debs/com.manus.splitflapclock_0.3.0_iphoneos-arm64.deb
+Size: 43186
+MD5sum: 0ef86c6e3d2091b131d01f5a35fdae1e
+SHA1: 57891d07e34da2ffe345a9f13f24360771279255
+SHA256: 54a13b10883d58c5f82388d34a8d505b8310c4ffcd24285d320157d05c83f08f
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 9
+Description: Professional split-flap station clock with mechanical panel styling
 Author: Manus AI
-Name: SplitFlapClock
+Name: Split-Flap Terminal Clock
 
 Package: com.manus.starrynightclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
-Installed-Size: 180
+Installed-Size: 200
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.starrynightclock_0.2.1_iphoneos-arm64.deb
-Size: 73562
-MD5sum: 160b31aa1a2bd8d439fb216ee9adee2b
-SHA1: eaa47b13a261e74cd2164f6d803ecff0b6034efb
-SHA256: af5ba16d8ab14cdc8f7ae244059361c422122e39c9e64907c0ad4954d8ecd4b9
+Filename: debs/com.manus.starrynightclock_0.3.0_iphoneos-arm64.deb
+Size: 76246
+MD5sum: bb2b07a72f0c4c427186e218212baeb1
+SHA1: 87abff36d93b1c346131f166cb704f8d424ef020
+SHA256: 57bdefb778d40edf177c545fb926fa1c2c3a5524bd0df3d10768989365f1c2a0
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 2
+Description: Creative celestial clock with constellations, orbit lines, moonlight, and live UK time
 Author: Manus AI
-Name: StarryNightClock
+Name: Starfield Night Watch
 
 Package: com.manus.steamboatwaveclock
 Version: 0.1.4
@@ -414,20 +414,20 @@ Author: Manus AI
 Name: Steamboat Wave Clock
 
 Package: com.manus.sunsetclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 128
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.sunsetclock_0.2.1_iphoneos-arm64.deb
-Size: 20160
-MD5sum: b890e9077e276d150a4d9783c592436a
-SHA1: 86f856d3a46cbac7e7d9e3e0d44357beabd2072b
-SHA256: 206455cb2197debe5f9455f581f619bc61872e0c556fca5300adccfdda396856
+Filename: debs/com.manus.sunsetclock_0.3.0_iphoneos-arm64.deb
+Size: 20186
+MD5sum: 56a427b33cf732de98f6bf9e15dbaed6
+SHA1: 7c913699e884e053104cb3fa9113f930e4401419
+SHA256: 03cb285696c59d9ee8baff463faf867f55517713523338367068ad098a19a25d
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 8
+Description: Layered sunset clock with warm horizon gradients and evening typography
 Author: Manus AI
-Name: SunsetClock
+Name: Sunset Horizon Clock
 
 Package: com.manus.tamagotchiclock
 Version: 0.2.0
@@ -446,52 +446,52 @@ Author: Manus AI
 Name: Tamagotchi Pixel Clock
 
 Package: com.manus.terminalclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 88
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.terminalclock_0.1.4_iphoneos-arm64.deb
-Size: 6860
-MD5sum: 72c0a2646294653932d100f465dd7669
-SHA1: 199fbfcc2603886b591f04d729a72ac5b13bb23f
-SHA256: 721b567039162c4118cba02bb5049fd22f7404e5ee25d3386327cb28dd4f91fa
+Filename: debs/com.manus.terminalclock_0.2.0_iphoneos-arm64.deb
+Size: 6870
+MD5sum: 039a6ff02f63ad7bf22b1b5dd1ee200d
+SHA1: 23dc1fe7cd19f7c9f219eb751046cf554014b2ca
+SHA256: 8f6811ac80363707a72803832101e2a4751f630f1ab9c63373a27050e214e766
 Section: Tweaks
-Description: Native UIKit Terminal Clock for iOS 15 rootless lock screen
+Description: Monospaced terminal clock with polished command-line styling
 Author: Manus AI
-Name: Terminal Clock
+Name: Terminal Green Clock
 
 Package: com.manus.typewriterclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 152
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.typewriterclock_0.2.1_iphoneos-arm64.deb
-Size: 46704
-MD5sum: b478b7fd7507513d0fb89d562aee12f9
-SHA1: 7b159b9e1bc347dcf53872cbdfd9bbefb3dfe8a5
-SHA256: 9f6294f0d7e27aa4d4d2d344bfc09f3e2be05f80f4abf1ceaf69336c2a66a251
+Filename: debs/com.manus.typewriterclock_0.3.0_iphoneos-arm64.deb
+Size: 46724
+MD5sum: f1be761731ac1415cbee0ca0ceb8edce
+SHA1: f8d5287306f32e12535716c8bf6807a8a59d2690
+SHA256: 03f111ab00eaa4e37baef336492d62cdb12df07bddde0b9050f779f430f8bf2e
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 5
+Description: Editorial desk clock with typewriter keys, paper texture, and classic serif type
 Author: Manus AI
-Name: TypewriterClock
+Name: Typewriter Desk Clock
 
 Package: com.manus.vaporwaveclock
-Version: 0.2.1
+Version: 0.3.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 144
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.vaporwaveclock_0.2.1_iphoneos-arm64.deb
-Size: 36900
-MD5sum: 55e2b0e14e98475e3eded157d88350fb
-SHA1: d3f7959ccdd5ea2b2e1ff3292a273014cebb92e5
-SHA256: bea0f356db773435e37ce0a22207b3d2e1a812ca55376c02b32000f49c0135f5
+Filename: debs/com.manus.vaporwaveclock_0.3.0_iphoneos-arm64.deb
+Size: 36908
+MD5sum: 8f485cedd585aa1399ef1c3a2f816ecc
+SHA1: 18658cb9a2a4e493fda4c1ea75344a8c193a4a9b
+SHA256: 2e3a4689fe37ef4bfef6574f9586ae6ccc403fe8bf51aa31b81db80539c355dd
 Section: Tweaks
-Description: Creative iPhone 7 lock-screen clock theme 10
+Description: Polished vaporwave clock with synthwave gradients and retro-futurist typography
 Author: Manus AI
-Name: VaporwaveClock
+Name: Vaporwave Dream Clock
 
 Package: com.manus.weatherpanel
 Version: 0.1.4
@@ -510,20 +510,20 @@ Author: Manus AI
 Name: Weather Panel
 
 Package: com.manus.wordclock
-Version: 0.1.4
+Version: 0.2.0
 Architecture: iphoneos-arm64
 Maintainer: Manus AI
 Installed-Size: 88
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
-Filename: debs/com.manus.wordclock_0.1.4_iphoneos-arm64.deb
-Size: 6858
-MD5sum: 6488b3ae6588a946983bdeb70b90cd5d
-SHA1: 626f6e8ae8d614eb123c0fd6fb18b10d3d113967
-SHA256: 03b0bb1590c718d6bfa1c0d704b37c2b01ae10c0aec11943c1a7b624814f8cdc
+Filename: debs/com.manus.wordclock_0.2.0_iphoneos-arm64.deb
+Size: 6870
+MD5sum: 769a5d1f656f62baa0ea34067bea64a7
+SHA1: 1be7ead15690997db847523827538024bf719429
+SHA256: a0877f55f97ac6a858eda9f9a7483b827b07575076517a2fdf885b09ed0c2e1c
 Section: Tweaks
-Description: Native UIKit Word Clock for iOS 15 rootless lock screen
+Description: Elegant word-based clock with native typography and UK time
 Author: Manus AI
-Name: Word Clock
+Name: Editorial Word Clock
 
 Package: com.now.mooner
 Version: 1.0.1
