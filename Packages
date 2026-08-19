@@ -317,6 +317,22 @@ Description: Native mouse-character lock-screen clock with arms as live clock ha
 Author: Manus AI
 Name: Mouse Hands Clock
 
+Package: com.manus.mousehandsclock
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Manus AI
+Installed-Size: 88
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: debs/com.manus.mousehandsclock_0.1.1_iphoneos-arm64.deb
+Size: 6932
+MD5sum: 25e3c51175a80f103c1354f22b29f0a8
+SHA1: 928d344fcd9942d109a2192bf528b7b60020d18d
+SHA256: b46931ab3769f1c9f99fc6ce14942d884f9ae69b2c446d99df714ba4fac76684
+Section: Tweaks
+Description: Native mouse-character lock-screen clock with arms as live clock hands
+Author: Manus AI
+Name: Mouse Hands Clock
+
 Package: com.manus.neonarcadeclock
 Version: 0.1.0
 Architecture: iphoneos-arm64
